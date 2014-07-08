@@ -1,0 +1,20 @@
+{
+  "name": "task-manager",
+  "version": "0.0.0",
+  "homepage": "https://github.com/feralieva/task-manager",
+  "authors": [
+    "feralieva <t.feralieva@gmail.com>"
+  ],
+  "description": "I love hack bulgaria",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.2.0"
+  }
+}
